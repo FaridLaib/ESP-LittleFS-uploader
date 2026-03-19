@@ -10,6 +10,7 @@ One `.exe`, zero dependencies for end users.
 ![ESP32](https://img.shields.io/badge/ESP32-S2%20%7C%20S3%20%7C%20C3%20%7C%20C6%20%7C%20H2-red?logo=espressif)
 
 ---
+<img width="735" height="805" alt="image" src="https://github.com/user-attachments/assets/7b2f482f-3180-4cad-9447-2376b533c7c7" />
 
 ## Features
 
